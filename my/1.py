@@ -1,5 +1,7 @@
-x=input()
-i=0
-for i in x:
-    print(x[i])
-i=i+1
+x=int(input())
+y=int(input())
+print(x+y)
+#1
+#4
+
+#5

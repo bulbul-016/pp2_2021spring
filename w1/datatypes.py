@@ -6,6 +6,7 @@ Mapping Type:	dict
 Set Types:	set, frozenset
 Boolean Type:	bool
 Binary Types:	bytes, bytearray, memoryview
+
 x = "Hello World":   str	
 x = 20:   int	
 x = 20.5:   float	

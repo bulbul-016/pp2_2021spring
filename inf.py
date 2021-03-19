@@ -8,3 +8,12 @@ for i in range(n):
     d[word2] = word1
 
 print(d[input()])
+'''
+3
+Hello Hi
+Bye Goodbye
+List Array
+Goodbye
+
+Bye
+'''
